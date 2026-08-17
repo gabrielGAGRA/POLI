@@ -7,3 +7,6 @@
 [submodule "Banco_de_Dados"]
 	path = Banco_de_Dados
 	url = https://github.com/gabrielGAGRA/Banco_de_Dados.git
+[submodule "Laboratorio_de_Sistemas_Digitais"]
+	path = Laboratorio_de_Sistemas_Digitais
+	url = https://github.com/gabrielGAGRA/Laboratorio_de_Sistemas_Digitais.git
